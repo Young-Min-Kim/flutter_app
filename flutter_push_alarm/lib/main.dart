@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'dart:math';
 
 void main() {
   runApp(MyApp());
@@ -53,11 +54,11 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   // 알림 더미 타이틀
-  List pushTitleList = ['ON', 'OFF'];
-  // 알림 그룹 ID 카운트용, 알림이 올때마다 이 값을 1씩 증가 시킨다.
+  List pushTitleList = ['A', 'B', 'C', 'D', 'E'];
+
   int groupedNotificationCounter = 1;
 
-  // 알림 발생 함수!!
+  // 알림 발생 함수
   Future<void> _showGroupedNotifications() async {
     // 알림 그룹 키
     const String groupKey = 'com.android.example.WORK_EMAIL';
@@ -68,11 +69,8 @@ class _MyHomePageState extends State<MyHomePage> {
     // 채널 설명
     const String groupChannelDescription = 'grouped channel description';
 
-    // 더미 타이틀 랜덤으로 얻기위함 
-    //// 삼항 연산자로 사용은 가능
-    int num = (pushTitleList.length >= 3) ? 0 : 1;
-    
-    
+    var random = new Random();
+    int num = random.nextInt(4);
 
     // 안드로이드 알림 설정
     const AndroidNotificationDetails notificationAndroidSpecifics =
@@ -93,14 +91,12 @@ class _MyHomePageState extends State<MyHomePage> {
         '스마트 플러그 작동 상태 - ${pushTitleList[num]}',
         notificationPlatformSpecifics);
 
-    // 그룹용 알림 설정
-    // 특징 setAsGroupSummary 가 true 이다.
     const AndroidNotificationDetails androidPlatformChannelSpecifics =
         AndroidNotificationDetails(
             groupChannelId, groupChannelName, groupChannelDescription,
             onlyAlertOnce: true, groupKey: groupKey, setAsGroupSummary: true);
 
-    // 플랫폼별 설정 - 현재 안드로이드만 적용됨
+
     const NotificationDetails platformChannelSpecifics =
         NotificationDetails(android: androidPlatformChannelSpecifics);
     // 그룹용 알림 출력

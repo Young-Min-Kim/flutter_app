@@ -66,12 +66,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _getStore() {
     db.getConnection().then((conn) {
-      String sql =
-          'SELECT * from Store';
+      String sql = 'SELECT * from Store';
       conn.query(sql).then((results) {
         for (var column in results) {
           setState(() {
-            ProductStore productStore = new ProductStore(column[0], column[1], column[2], column[3]);
+            ProductStore productStore =
+                new ProductStore(column[0], column[1], column[2], column[3]);
             productStoreList.add(productStore);
           });
         }
@@ -79,14 +79,12 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-
   @override
   initState() {
     super.initState();
     _getAmp();
     _getStore();
   }
-
 
   @override
   Widget build(BuildContext context) {
@@ -115,6 +113,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'Amp: ',
             ),
+
+            // amp 정보 찍기
             if (productAmpList.length != 0)
               Column(
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -125,11 +125,28 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                 ],
               ),
+
+            //Store 정보 찍기
+            if (productStoreList.length != 0)
+              Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: <Widget>[
+                  for (var productStore in productStoreList)
+                    Text(
+                      '${productStore.storeId} ${productStore.name} ->  ${productStore.phone}, ${productStore.location}',
+                    ),
+                ],
+              ),
           ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _getCustomer,
+        onPressed: () {
+          _getCustomer();
+          _getStore();
+          _getStore();
+          _getStore();
+        },
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),

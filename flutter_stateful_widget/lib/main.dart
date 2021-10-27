@@ -6,7 +6,7 @@ void main() {
   runApp(MyApp());
 }
 
-// stateless 한 Widㅎet 을 상속 받은 StatefulWidget은 Imutable 한특징을 유지
+// stateless 한 Widget 을 상속 받은 StatefulWidget은 Imutable 한특징을 유지
 class MyApp extends StatefulWidget {
   // createState() 메서드는 반드시 State타입의 객체를 리턴해야 한다.
   // 결국 <StatefulWidget> 타입만이 올 수 있는 객체여야 한다.

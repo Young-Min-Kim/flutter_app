@@ -83,14 +83,11 @@ class _MangedInfoPageState extends State<MangedInfoPage> {
                 spreadRadius: 0)
           ]),
       child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           SizedBox(
             height: 5,
           ),
           Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
                 // height: 150,

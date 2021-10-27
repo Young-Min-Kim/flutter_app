@@ -29,8 +29,8 @@ class _ButtonZooming5_1State extends SampleViewState {
   var db = Mysql();
   List<ProductSmartPlug1> productSmartPlugList = [];
   void _getSmartPlug() {
-    // getConnection() -> future´Â ºñµ¿±â·Î ÁøÇàÇÏ°Ú´Ù¶ó´Â ¶æ
-    // _getSmartPlug  µ¹¸®°í -> µ¹¸®ÀÚ ¸¶ÀÚ
+    // getConnection() -> futureëŠ” ë¹„ë™ê¸°ë¡œ ì§„í–‰í•˜ê² ë‹¤ë¼ëŠ” ëœ»
+    // _getSmartPlug  ëŒë¦¬ê³  -> ëŒë¦¬ì ë§ˆì
     db.getConnection().then((conn) {
       String sql =
           "select date_format(datetime, '%Y-%m-%d') DateTime, round(sum(amp), 2) amp from db.Smart_plug where id NOT IN (111) and id=5 and date_format(datetime, '%Y-%m-%d') is not null and datetime NOT IN ('2020-11-01 00:00:00') group by date_format(db.Smart_plug.datetime, '%Y-%m-%d')";
@@ -38,7 +38,6 @@ class _ButtonZooming5_1State extends SampleViewState {
       conn.query(sql).then((results) {
         for (var column in results) {
           setState(() {
-     
             ProductSmartPlug1 productSmartPlug1 =
                 ProductSmartPlug1(column[0], column[1]);
 
@@ -55,7 +54,7 @@ class _ButtonZooming5_1State extends SampleViewState {
   @override
   void initState() {
     _zoomPan = ZoomPanBehavior(
-      // ÁÜÀÎ ¼³Á¤
+      // ì¤Œì¸ ì„¤ì •
       enableDoubleTapZooming: true,
       enablePanning: true,
       enablePinching: true,
@@ -81,7 +80,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                   Align(
                     alignment: Alignment.bottomCenter,
                     child: Container(
-                      height: 50, // ¹öÆ° À§Ä¡ ¼³Á¤
+                      height: 50, // ë²„íŠ¼ ìœ„ì¹˜ ì„¤ì •
                       child: InkWell(
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
@@ -94,7 +93,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                               padding: const EdgeInsets.fromLTRB(24, 15, 0, 0),
                               child: Tooltip(
                                 // Plus
-                                message: 'ÁÜ ÀÎ',
+                                message: 'ì¤Œ ì¸',
                                 child: IconButton(
                                   icon: Icon(Icons.add,
                                       color: model.backgroundColor),
@@ -111,7 +110,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: 'ÁÜ ¾Æ¿ô',
+                                message: 'ì¤Œ ì•„ì›ƒ',
                                 child: IconButton(
                                   icon: Icon(Icons.remove,
                                       color: model.backgroundColor),
@@ -128,7 +127,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: 'À§ÂÊ ÀÌµ¿',
+                                message: 'ìœ„ìª½ ì´ë™',
                                 child: IconButton(
                                   icon: Icon(Icons.keyboard_arrow_up,
                                       color: model.backgroundColor),
@@ -145,7 +144,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: '¾Æ·¡ÂÊ ÀÌµ¿',
+                                message: 'ì•„ë˜ìª½ ì´ë™',
                                 child: IconButton(
                                   icon: Icon(Icons.keyboard_arrow_down,
                                       color: model.backgroundColor),
@@ -162,7 +161,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: '¿ŞÂÊ ÀÌµ¿',
+                                message: 'ì™¼ìª½ ì´ë™',
                                 child: IconButton(
                                   icon: Icon(Icons.keyboard_arrow_left,
                                       color: model.backgroundColor),
@@ -179,7 +178,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: '¿À¸¥ÂÊ ÀÌµ¿',
+                                message: 'ì˜¤ë¥¸ìª½ ì´ë™',
                                 child: IconButton(
                                   icon: Icon(Icons.keyboard_arrow_right,
                                       color: model.backgroundColor),
@@ -196,7 +195,7 @@ class _ButtonZooming5_1State extends SampleViewState {
                                       0.9,
                               padding: const EdgeInsets.fromLTRB(20, 15, 0, 0),
                               child: Tooltip(
-                                message: 'µÇµ¹¸®±â',
+                                message: 'ë˜ëŒë¦¬ê¸°',
                                 child: IconButton(
                                   icon: Icon(Icons.refresh,
                                       color: model.backgroundColor),
@@ -230,13 +229,13 @@ class _ButtonZooming5_1State extends SampleViewState {
   }
 
   List<ChartSampleData> getDateTimeData() {
-    // splineSeriesData¾ê°¡ ¹«Á¶°Ç ÃÊ±âÈ­ ÇÑ¹ø µÇ¾î¾ßÁö ¾Æ·¡ÀÖ´Â build°¡ µ·´Ù.
-    // ÀÌ [] ´ë °ıÈ£ ¾È¿¡ ÀÌ·¸°Ô ¿©·¯°³ ¿ä¼Ò¸¦ ³ÖÀ» ¼ö ÀÖ´Â °Å º¸¸é for¹®µµ °¡´ÉÇÏ´Ù´Â °ÍÀ» ÀÎÁö ÇÏÀÚ.
+    // splineSeriesDataì–˜ê°€ ë¬´ì¡°ê±´ ì´ˆê¸°í™” í•œë²ˆ ë˜ì–´ì•¼ì§€ ì•„ë˜ìˆëŠ” buildê°€ ëˆë‹¤.
+    // ì´ [] ëŒ€ ê´„í˜¸ ì•ˆì— ì´ë ‡ê²Œ ì—¬ëŸ¬ê°œ ìš”ì†Œë¥¼ ë„£ì„ ìˆ˜ ìˆëŠ” ê±° ë³´ë©´ forë¬¸ë„ ê°€ëŠ¥í•˜ë‹¤ëŠ” ê²ƒì„ ì¸ì§€ í•˜ì.
     List<ChartSampleData> splineSeriesData = <ChartSampleData>[
       for (var i = 0; i < productSmartPlugList.length; i++)
         ChartSampleData(
             x: DateTime.parse(
-                productSmartPlugList[i].datetime!), // !´Â nullÀÌ ¾Æ´Ï¶ó°í È®½ÅÀ» ÁÖ´Â °Í
+                productSmartPlugList[i].datetime!), // !ëŠ” nullì´ ì•„ë‹ˆë¼ê³  í™•ì‹ ì„ ì£¼ëŠ” ê²ƒ
             y: productSmartPlugList[i].amp),
     ];
     print("queryResult2 " + productSmartPlugList.length.toString());

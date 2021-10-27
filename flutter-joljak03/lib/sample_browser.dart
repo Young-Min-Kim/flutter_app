@@ -6,14 +6,12 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 /// local imports
 import 'model/helper.dart';
 import 'model/model.dart';
 import 'model/web_view.dart';
 import 'widgets/animate_opacity_widget.dart';
-import 'widgets/search_bar.dart';
 // developer_info 임포트
 //import 'developer_info.dart';
 
@@ -67,12 +65,12 @@ class _SampleBrowserState extends State<SampleBrowser> {
     }
 
     ///Avoiding page poping on escape key press
-    final Map<LogicalKeySet, Intent> shortcuts =
-    Map<LogicalKeySet, Intent>.of(WidgetsApp.defaultShortcuts)
-      ..remove(LogicalKeySet(LogicalKeyboardKey.escape));
+    // final Map<LogicalKeySet, Intent> shortcuts =
+    // Map<LogicalKeySet, Intent>.of(WidgetsApp.defaultShortcuts)
+    //   ..remove(LogicalKeySet(LogicalKeyboardKey.escape));
     return _sampleListModel.isWebFullView
         ? MaterialApp(
-      shortcuts: shortcuts,
+      //shortcuts: shortcuts,
       initialRoute: '/',
       routes: navigationRoutes,
       debugShowCheckedModeBanner: false,

@@ -1,352 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rXC\\values-en-rXC.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "203",
-                        "endOffsets": "254"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-is\\values-is.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-mk\\values-mk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-th\\values-th.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-or\\values-or.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hu\\values-hu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sq\\values-sq.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ko\\values-ko.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.1.0.aar\\dfe762b7e8fe861770d539bcfe5aa4fd\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,121,182,248",
-                        "endColumns": "65,60,65,66",
-                        "endOffsets": "116,177,243,310"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ru\\values-ru.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-et\\values-et.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rCA_values-en-rCA.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rCA\\values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sl\\values-sl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-gl\\values-gl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-uk\\values-uk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ne\\values-ne.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fr\\values-fr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.1.0.aar\\dfe762b7e8fe861770d539bcfe5aa4fd\\res\\values\\values.xml",
@@ -385,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -406,10 +61,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -421,10 +76,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -436,10 +91,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -451,67 +106,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-my\\values-my.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hi\\values-hi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sw\\values-sw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-in\\values-in.xml",
@@ -526,10 +121,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -541,7 +136,142 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
@@ -556,10 +286,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -571,10 +301,265 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\android\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\android\\app\\src\\main\\res\\values-land\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -595,10 +580,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -610,10 +595,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -625,10 +610,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -640,10 +625,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -655,10 +640,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -670,10 +655,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -685,10 +670,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-si\\values-si.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -700,10 +685,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -715,7 +700,142 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.1.0.aar\\dfe762b7e8fe861770d539bcfe5aa4fd\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.1.0.aar\\dfe762b7e8fe861770d539bcfe5aa4fd\\res\\values-v21\\values-v21.xml",
@@ -758,547 +878,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-da\\values-da.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt-rPT\\values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ca\\values-ca.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-it\\values-it.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ar\\values-ar.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-be\\values-be.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bn\\values-bn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sk\\values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt-rBR\\values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ms\\values-ms.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-tr\\values-tr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-kn\\values-kn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rAU\\values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ml\\values-ml.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fr-rCA\\values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ka\\values-ka.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bs\\values-bs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-kk\\values-kk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fa\\values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-es-rUS\\values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ta\\values-ta.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ur\\values-ur.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-cs\\values-cs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-iw\\values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ro\\values-ro.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
                     "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-mn\\values-mn.xml",
@@ -1313,10 +893,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1328,10 +908,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-as\\values-as.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1343,10 +923,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1358,10 +938,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1373,10 +953,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1388,10 +968,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1403,10 +983,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1418,10 +998,430 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\kpu_energy\\Flutter App\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\KYM\\Documents\\GitHub\\flutter_app\\flutter-joljak03\\build\\app\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\KYM\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.3.0.aar\\b2ed8ac2f53eecf106ad77937749c1ef\\res\\values-is\\values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
