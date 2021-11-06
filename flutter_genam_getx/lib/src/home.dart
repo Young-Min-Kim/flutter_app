@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
                 // );
 
                 //GetX 코드 ->GetX 코드가 훨씬 간단하다. + 상태들을 로그로 잘 찍어준다.
-                Get.to(() => const FirstPage());
+                Get.to(() => const FirstPage(), transition: Transition.zoom);
               },
               child: const Text("일반적인 라우트"),
             ),
@@ -50,6 +50,8 @@ class Home extends StatelessWidget {
                 //인자값 여러개를 배열로 감싸서 보내기 가능
                 //Get.toNamed("/next", arguments: {"name": "김영민", "age": 26});
                 Get.toNamed("/next", arguments: User(name: "김김영민", age: 22));
+
+                //Get.to(() => const NextPage(), arguments: User(name: "김김영민", age: 22));
               },
               child: const Text("Arguments 전달"),
             ),

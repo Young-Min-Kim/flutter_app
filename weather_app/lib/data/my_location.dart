@@ -1,5 +1,6 @@
 import 'package:geolocator/geolocator.dart';
 
+// 내 위치 정보(위도, 경도) 값을 저장하는 클래스
 class MyLocation {
   double? latitude2;
   double? longitude2;
