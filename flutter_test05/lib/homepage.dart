@@ -1,7 +1,6 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:cupertino_radio_choice/cupertino_radio_choice.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -13,6 +12,13 @@ class HomePage extends StatefulWidget {
 final isSelected = <bool>[false, false, false];
 
 class _HomePageState extends State<HomePage> {
+  static final Map<String, String> stepMap = {
+    '준비': '준비',
+    '작업중': '작업중',
+    '완료': '완료',
+  };
+  String _selectedStep = stepMap.keys.first;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -217,41 +223,47 @@ class _HomePageState extends State<HomePage> {
                                 ),
                                 Padding(
                                   padding: const EdgeInsets.only(right: 8),
-                                  child: ToggleButtons(
-                                    color: Colors.black.withOpacity(0.60),
+                                  child: CupertinoRadioChoice(
+                                    choices: stepMap,
+                                    onChange: onSelected,
+                                    initialKeyValue: _selectedStep,
                                     selectedColor: const Color(0xFF6200EE),
-                                    selectedBorderColor: const Color(0xFF6200EE),
-                                    fillColor: const Color(0xFF6200EE).withOpacity(0.08),
-                                    splashColor: const Color(0xFF6200EE).withOpacity(0.12),
-                                    hoverColor: const Color(0xFF6200EE).withOpacity(0.04),
-                                    borderRadius: BorderRadius.circular(13),
-                                    constraints: const BoxConstraints(minHeight: 30.0),
-                                    children: const [
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.symmetric(horizontal: 8.0),
-                                        child: Text('준비'),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.symmetric(horizontal: 8.0),
-                                        child: Text('작업중'),
-                                      ),
-                                      Padding(
-                                        padding:
-                                            EdgeInsets.symmetric(horizontal: 8.0),
-                                        child: Text('완료'),
-                                      ),
-                                      
-                                    ],
-                                    isSelected: isSelected,
-                                    onPressed: (index) {
-                                      // Respond to button selection
-                                      setState(() {
-                                        isSelected[index] = !isSelected[index];
-                                      });
-                                    },
                                   ),
+                                  // ToggleButtons(
+                                  //   color: Colors.black.withOpacity(0.60),
+                                  //   selectedColor: const Color(0xFF6200EE),
+                                  //   selectedBorderColor: const Color(0xFF6200EE),
+                                  //   fillColor: const Color(0xFF6200EE).withOpacity(0.08),
+                                  //   splashColor: const Color(0xFF6200EE).withOpacity(0.12),
+                                  //   hoverColor: const Color(0xFF6200EE).withOpacity(0.04),
+                                  //   borderRadius: BorderRadius.circular(13),
+                                  //   constraints: const BoxConstraints(minHeight: 30.0),
+                                  //   children: const [
+                                  //     Padding(
+                                  //       padding:
+                                  //           EdgeInsets.symmetric(horizontal: 8.0),
+                                  //       child: Text('준비'),
+                                  //     ),
+                                  //     Padding(
+                                  //       padding:
+                                  //           EdgeInsets.symmetric(horizontal: 8.0),
+                                  //       child: Text('작업중'),
+                                  //     ),
+                                  //     Padding(
+                                  //       padding:
+                                  //           EdgeInsets.symmetric(horizontal: 8.0),
+                                  //       child: Text('완료'),
+                                  //     ),
+
+                                  //   ],
+                                  //   isSelected: isSelected,
+                                  //   onPressed: (index) {
+                                  //     // Respond to button selection
+                                  //     setState(() {
+                                  //       isSelected[index] = !isSelected[index];
+                                  //     });
+                                  //   },
+                                  // ),
                                 ),
                               ],
                             ),
@@ -306,5 +318,11 @@ class _HomePageState extends State<HomePage> {
         ],
       ),
     );
+  }
+
+  void onSelected(String stepKey) {
+    setState(() {
+      _selectedStep = stepKey;
+    });
   }
 }
